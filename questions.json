@@ -1,0 +1,138 @@
+{
+    "A": [
+        {
+            "1": {
+                "q": "What are the names of the seven continents of the world?",
+                "A": "A. Asia, Africa, North America, Antarctida,Antarctica, Europe, Australia",
+                "B": "B. Asia, Africa, North America, South America, Antarctica, Europe, Australia",
+                "C": "C. Asia, Africa, America, Greenland, Antarctica, Europe, Australia",
+                "right": "B"
+            },
+
+            "2": {
+                "q": "What is the name of the longest river in Africa?",
+                "A": "A. The Amazon river",
+                "B": "B. The Yangtze River",
+                "C": "C. Nile River",
+                "right": "C"
+            },
+
+            "3": {
+                "q": "What U.S. state is home to no documented poisonous snakes?",
+                "A": "A. Kansas",
+                "B": "B. Alaska",
+                "C": "C. Texas",
+                "right": "B"
+            },
+
+            "4": {
+                "q": "What is the capital of Thailand?",
+                "A": "A. Bangkok",
+                "B": "B. Phuket",
+                "C": "C. Chiang Ma",
+                "right": "A"
+            },
+
+            "5": {
+                "q": "What is the name of the smallest country in the world?",
+                "A": "A. Monaco",
+                "B": "B. The Vatican City",
+                "C": "C. Liechtenstein",
+                "right": "B"
+            },
+
+            "6": {
+                "q": "What country formerly ruled Iceland?",
+                "A": "A. Norway",
+                "B": "B. Denmark",
+                "C": "C. Sweden",
+                "right": "B"
+            },
+
+            "7": {
+                "q": "In what ocean is the Bermuda Triangle located?",
+                "A": "A. Pacific ocean",
+                "B": "B. Indian ocean",
+                "C": "C. Atlantic ocean",
+                "right": "C"
+            },
+
+            "8": {
+                "q": "What is the coldest state in the US?",
+                "A": "A. North Dacota",
+                "B": "B. Alaska",
+                "C": "C. Montana",
+                "right": "B"
+            }
+        }
+    ],
+
+    "B": [
+        {
+            "1": {
+                "q": "Which famous battle took place on Sunday, June 18th, 1815?",
+                "A": "A. Battle of Marathon",
+                "B": "B. The Battle of Waterloo",
+                "C": "C. Battle of Gettysburg",
+                "right": "B"
+            },
+
+            "2": {
+                "q": "Which Greek historian is known as the “Father of History”?",
+                "A": "A. Herodotus",
+                "B": "B. Polybius",
+                "C": "C. Xenophon",
+                "right": "A"
+            },
+
+            "3": {
+                "q": "The Ptolemy dynasty ruled which ancient kingdom?",
+                "A": "A. Assyria",
+                "B": "B. Akkadian Empire",
+                "C": "C. Egypt",
+                "right": "C"
+            },
+
+            "4": {
+                "q": "The ancient city of Rome was built on how many hills?",
+                "A": "A. Seven",
+                "B": "B. Eight",
+                "C": "C. Nine",
+                "right": "A"
+            },
+
+            "5": {
+                "q": "What is the name of the first human civilization?",
+                "A": "A. Sumer",
+                "B": "B. Mesopotamia",
+                "C": "C. Ancient Greece",
+                "right": "B"
+            },
+
+            "6": {
+                "q": "Which war took place between 1950 and 1953?",
+                "A": "A. Vietnam War",
+                "B": "B. Russo-Japanese War",
+                "C": "C. Korean War",
+                "right": "C"
+            },
+
+            "7": {
+                "q": "Which century did the French Revolution take place in?",
+                "A": "A. The 16th Century",
+                "B": "B. The 17th Century",
+                "C": "C. The 18th Century",
+                "right": "C"
+            },
+
+            "8": {
+                "q": "In which year was the Berlin Wall torn down?",
+                "A": "A. 1988",
+                "B": "B. 1989",
+                "C": "C. 1990",
+                "right": "B"
+            }
+
+        }
+    ]
+}
